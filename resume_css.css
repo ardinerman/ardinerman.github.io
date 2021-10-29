@@ -1,0 +1,76 @@
+/* CSS Document */
+h1{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		color:deeppink;
+	font-size:170%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width:200px;
+background-color: lightyellow;
+overflow: auto;
+padding-top: 50px;
+	padding-bottom: 25px;
+	padding-left: 50px;
+}
+h2{
+	font-size:120%;
+	font-style: bold;
+}
+
+body{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	align-content: center;
+	align-items: center;
+	background-color: lightyellow;
+font-size: 100%;
+margin:auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 960px;
+	padding:45px;
+	padding-left: 30px;
+	border-color: aliceblue;
+	border-width:thick;
+	border-style:double;
+	overflow: auto
+}
+nav li{
+	display: inline;
+	margin-left: 80px;
+	margin-top: auto;
+	margin-bottom: auto;
+	text-align: center;
+}
+div{
+	align-content: center;
+padding: 30px;
+	padding-right:130px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border: thin;
+	border-color:aliceblue;
+	border-width:thick;
+	border-style:double;
+	border-bottom-right-radius: 60px; 
+	border-bottom-left-radius: 60px;
+	border-top-left-radius: 60px; 
+	border-top-right-radius: 60px; 
+background-color:ghostwhite
+
+}
+div.firstnv{
+background-color: lightyellow;
+	border-color: lightyellow;
+	margin: auto;
+	width: 960px;
+	padding-right: 2px;
+	padding-left: 0px;
+	margin-left: auto;
+	text-align: center;
+		
+	
+
+}
